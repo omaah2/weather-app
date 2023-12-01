@@ -1,0 +1,199 @@
+{
+  "location": {
+    "name": "Abuja",
+    "region": "Federal Capital Territory",
+    "country": "Nigeria",
+    "lat": 9.18,
+    "lon": 7.18,
+    "tz_id": "Africa/Lagos",
+    "localtime_epoch": 1701332280,
+    "localtime": "2023-11-30 9:18"
+  },
+  "current": {
+    "last_updated_epoch": 1701332100,
+    "last_updated": "2023-11-30 09:15",
+    "temp_c": 25.0,
+    "temp_f": 77.0,
+    "is_day": 1,
+    "condition": {
+      "text": "Sunny",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "code": 1000
+    },
+    "wind_mph": 3.8,
+    "wind_kph": 6.1,
+    "wind_degree": 110,
+    "wind_dir": "ESE",
+    "pressure_mb": 1014.0,
+    "pressure_in": 29.94,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 94,
+    "cloud": 0,
+    "feelslike_c": 25.2,
+    "feelslike_f": 77.3,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 7.0,
+    "gust_mph": 0.5,
+    "gust_kph": 0.8
+  },
+  "forecast": {
+    "forecastday": [
+      {
+        "date": "2023-11-30",
+        "date_epoch": 1701302400,
+        "day": {
+          "maxtemp_c": 37.1,
+          "maxtemp_f": 98.7,
+          "mintemp_c": 24.4,
+          "mintemp_f": 75.9,
+          "avgtemp_c": 29.7,
+          "avgtemp_f": 85.4,
+          "maxwind_mph": 5.4,
+          "maxwind_kph": 8.6,
+          "totalprecip_mm": 0.0,
+          "totalprecip_in": 0.0,
+          "totalsnow_cm": 0.0,
+          "avgvis_km": 10.0,
+          "avgvis_miles": 6.0,
+          "avghumidity": 41.0,
+          "daily_will_it_rain": 0,
+          "daily_chance_of_rain": 0,
+          "daily_will_it_snow": 0,
+          "daily_chance_of_snow": 0,
+          "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+          },
+          "uv": 7.0
+        },
+        "astro": {
+          "sunrise": "06:31 AM",
+          "sunset": "06:09 PM",
+          "moonrise": "09:04 PM",
+          "moonset": "09:16 AM",
+          "moon_phase": "Waning Gibbous",
+          "moon_illumination": 92,
+          "is_moon_up": 1,
+          "is_sun_up": 0
+        },
+        "hour": [
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          },
+          {
+            "condition": {}
+          }
+        ]
+      },
+      {
+        "date": "2023-12-01",
+        "date_epoch": 1701388800,
+        "day": {
+          "maxtemp_c": 36.5,
+          "maxtemp_f": 97.7,
+          "mintemp_c": 24.4,
+          "mintemp_f": 75.9,
+          "avgtemp_c": 29.5,
+          "avgtemp_f": 85.1,
+          "maxwind_mph": 3.8,
+          "maxwind_kph": 6.1,
+          "totalprecip_mm": 0.0,
+          "totalprecip_in": 0.0,
+          "totalsnow_cm": 0.0,
+          "avgvis_km": 10.0,
+          "avgvis_miles": 6.0,
+          "avghumidity": 39.0,
+          "daily_will_it_rain": 0,
+          "daily_chance_of_rain": 0,
+          "daily_will_it_snow": 0,
+          "daily_chance_of_snow": 0,
+          "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+          },
+          "uv": 7.0
+        },
+        "astro": {
+          "sunrise": "06:31 AM",
+          "sunset": "06:09 PM",
+          "moonrise": "09:57 PM",
+          "moonset": "10:07 AM",
+          "moon_phase": "Waning Gibbous",
+          "moon_illumination": 86,
+          "is_moon_up": 1,
+          "is_sun_up": 0
+        }
+      }
+    ]
+  }
+}
